@@ -19,7 +19,7 @@ It visualizes top-selling products, regional revenue contribution, and sales rep
 To analyze business performance using interactive Power BI visuals, identify key revenue drivers, and enable data-driven decision-making.
 
 ## 🖼️ Dashboard Preview
-![Power BI Sales Dashboard](./Dashboard.png)
+![Power BI Sales Dashboard](Photo.png)
 
 
 ## 🎥 Dashboard Demo
