@@ -17,3 +17,10 @@ It visualizes top-selling products, regional revenue contribution, and sales rep
 
 ### 🎯 Objective
 To analyze business performance using interactive Power BI visuals, identify key revenue drivers, and enable data-driven decision-making.
+
+## 🖼️ Dashboard Preview
+![Power BI Sales Dashboard](./Dashboard.png)
+
+
+## 🎥 Dashboard Demo
+[▶️ Watch the interactive dashboard demo](https://youtu.be/your_video_link)
