@@ -23,6 +23,4 @@ To analyze business performance using interactive Power BI visuals, identify key
 
 
 ## 🎥 Dashboard Demo
-[▶️ Watch the interactive dashboard demo](task.gif)
-
 ![Dashboard Demo](task.gif)
